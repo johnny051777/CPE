@@ -1,3 +1,3 @@
 # CPE
 
-`all code have completed by OnlineJudge | ZeroJudge | CrazyCode`
+`all code have completed on OnlineJudge | ZeroJudge | CrazyCode`
