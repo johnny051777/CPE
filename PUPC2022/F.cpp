@@ -12,6 +12,10 @@
 using namespace std;
 
 int main(){
+	/*記得加，否則瘋狂澄社不通過*/
+	ios_base::sync_with_stdio(false);
+	cin.tie(NULL);
+	
 	int N;
 	cin>>N;
 	
