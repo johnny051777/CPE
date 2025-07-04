@@ -6,6 +6,8 @@ using namespace std;
 typedef pair<int,pair<int,int>> PP;
 
 int main(){
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
     int T;
     int n;
     int dir_x[4] = {1,-1,0,0};
