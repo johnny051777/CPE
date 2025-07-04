@@ -28,3 +28,13 @@ priority_queue<PP,vector<PP>,greater<PP>> pq;
 ### STEP3. 印出結果
 
 將cost[n-1][n-1]的位置印出來
+
+
+### 小提醒
+
+- 讓I/O跑得快
+```cpp=
+ios::sync_with_stdio(false);
+cin.tie(nullptr);
+```
+這東東記得加，否則可能因為測資過於龐大而WA
